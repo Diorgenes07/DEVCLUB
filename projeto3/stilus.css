@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding:0 ;
+    box-sizing:border-box ;
+    
+    
+}
+
+.div-dad{
+    background: blue;
+    height: 350px;
+    width: 350px;
+
+}
+.div-son{
+    background:green;
+    height:150px;
+    height:150px;
+}
+
+.tanananan{
+    background: red;
+    height: 50px;
+    width: 50px;
+}
